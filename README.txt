@@ -1,5 +1,7 @@
 ICS3U - The Paint Project (Grade 11)
 Created: Tarj Mecwan
+Theme: Stranger Things (Netflix Original)
+Time Period: 3-4 Weeks
 
 Objective: Design a simple paint program like windows Paint but with a little more style. 
 Your program will allow the user to use the mouse to draw simple pictures and save them toafile. 

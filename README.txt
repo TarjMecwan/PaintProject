@@ -1,44 +1,103 @@
-ICS3U - The Paint Project (Grade 11)
-Created: Tarj Mecwan
-Theme: Stranger Things (Netflix Original)
-Time Period: 3-4 Weeks
+# 🎨 Stranger Things Paint (Python)
 
-Objective: Design a simple paint program like windows Paint but with a little more style. 
-Your program will allow the user to use the mouse to draw simple pictures and save them toafile. 
-You are encouraged to make your own creative design for the layout of your screen.
+## 🧠 About This Project
 
+I’m updating this README over 8 years later, and honestly… I always forget how proud I was of this project.
 
-Basic Features:
-- Pencil
-- Shapes: Oval, Rectangle, Line (Both Filled/Unfilled)
-- Eraser
-- Stamp: 6 Stamps
-- Load/Save: loads bitmaps from a file that a user specifies and save the canvas to a file that the user specifies
-- Pick Colours: affects all tools and shapes
+Since then, I’ve built bigger, more complex, and more useful applications. But this one always hits different. This was from my very first coding class in high school (Grade 11) and my first ever Python project.
 
-Individual Features: 
-- Highlighter
-- Fountain Pen
-- Spray Paint
-- Polygon Tool: creates a polygon
-- Copy Tool: copies a selected area and expands to the canvas
-- Crayon/Scracher
-- Bucket Fill
-- Music Player: INCLUDES A SCRUBBER
-- Extra Information: Tool, Thickness, Coordinates
-- 6 Different Backgrounds
-- Undo/Redo
-- 4 Different Colour Circles
-- 9 Primary Colors Included
-- Colour Picker
+Looking back, I definitely went over the top. I even added a music controller, and the funny part is… even after coding it, I barely understood how it worked.
 
-Aesthetics:
-- Attractive Layout 
-- Working Christmas Lights
-- Layed out tools/features with reasonable proportions
-- Very Professional
-- Fill/UnFill shape toggle box
-- Hovered/Selected tools/features
+Still, this project represents where everything started for me.
 
-Copyright (c) 2020 Tarj Mecwan. All rights reserved.
-Permission is hereby granted to modify and redistribute this program for educational purposes with attribution.
+---
+
+## 🎯 Objective
+
+The assignment was simple:
+
+- Create a Microsoft Paint clone
+- Pick a theme
+- Include:
+  - At least 5 tools
+  - Load & Save functionality
+- Bonus marks for going above and beyond
+
+I chose a Stranger Things theme, since it had just come out at the time and I really liked it.
+
+Safe to say… I went way beyond the requirements.
+
+---
+
+## ✨ Features
+
+### 🖌️ Drawing Tools
+- Pencil  
+- Eraser  
+- Highlighter  
+- Fountain Pen  
+- Spray Can  
+- Eye Dropper  
+- Brush  
+- Crayon  
+
+### 🎨 Shape Tools
+- Rectangle Tool  
+- Circle Tool  
+- Polygon Tool  
+- All shapes can be:
+  - Filled  
+  - Not filled  
+
+### 🪣 Fill Tool
+- Works like a paint bucket  
+- I think I implemented it by checking surrounding pixels with the same color and filling them  
+- Not gonna lie… I don’t fully remember how I made it work, but it somehow worked perfectly  
+
+---
+
+## 🧩 Extras (Where I Went Crazy)
+
+- 🎬 Stranger Things Theme  
+- 🌌 6 Custom Backgrounds  
+  - The eraser replaces with the background instead of white  
+  - Completely unnecessary… but kinda cool  
+- 🎨 Multiple Color Wheels  
+  - Most students had one  
+  - I added a bunch just because why not  
+- 💡 Animated Christmas Lights across the top  
+- 🧷 6 Custom Stickers (Stranger Things themed)  
+- 🎵 Music Controller (still don’t know how I made that work)  
+- 🔁 Undo / Redo  
+- 📋 Copy Tool  
+- 📂 Load Image  
+- 💾 Save Image  
+
+---
+
+## 🚀 How to Run
+
+1. Install Python  
+2. Open the project in IDLE (or any Python IDE)  
+3. Run the main file  
+
+That’s it.
+
+---
+
+## 💭 Final Thoughts
+
+This project isn’t perfect. It’s messy, over-engineered, and honestly kind of chaotic.
+
+But it represents:
+- My first time building something real  
+- My first exposure to Python  
+- The moment I realized I actually enjoyed coding  
+
+Even after years of experience, this one still feels special.
+
+---
+
+## 🧑‍💻 Author
+
+**Tarj Mecwan**

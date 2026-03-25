@@ -71,7 +71,8 @@ Safe to say… I went way beyond the requirements.
 - 🔁 Undo / Redo  
 - 📋 Copy Tool  
 - 📂 Load Image  
-- 💾 Save Image  
+- 💾 Save Image
+-  
 ![Demo](paintproject.gif)
 ---
 

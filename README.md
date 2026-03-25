@@ -72,7 +72,7 @@ Safe to say… I went way beyond the requirements.
 - 📋 Copy Tool  
 - 📂 Load Image  
 - 💾 Save Image
--  
+   
 ![Demo](paintproject.gif)
 ---
 
